@@ -1,0 +1,10 @@
+^C:\USERS\TRAIANIS\DESKTOP\TEMA\GFX-FRAMEWORK-MASTER\BUILD\CMAKEFILES\9FA7FA2373D960CDDB12FFC1BC268F54\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Traianis/Desktop/Tema/gfx-framework-master -BC:/Users/Traianis/Desktop/Tema/gfx-framework-master/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Traianis/Desktop/Tema/gfx-framework-master/build/GFXFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

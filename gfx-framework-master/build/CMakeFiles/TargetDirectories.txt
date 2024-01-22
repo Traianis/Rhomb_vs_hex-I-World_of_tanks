@@ -1,0 +1,3 @@
+C:/Users/Traianis/Desktop/Tema/gfx-framework-master/build/CMakeFiles/GFXFramework.dir
+C:/Users/Traianis/Desktop/Tema/gfx-framework-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Traianis/Desktop/Tema/gfx-framework-master/build/CMakeFiles/ZERO_CHECK.dir

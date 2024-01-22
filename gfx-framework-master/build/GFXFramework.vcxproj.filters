@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\rhomb_vs_hex\Enemy.cpp">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\rhomb_vs_hex\object2D_Tema.cpp">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\rhomb_vs_hex\Romb.cpp">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\rhomb_vs_hex\Star.cpp">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\world_of_tanks\Cladire.cpp">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\world_of_tanks\Proiectil.cpp">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\world_of_tanks\Tank.cpp">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\rhomb_vs_hex\Main_game.cpp">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\lab_m1\world_of_tanks\Main_wot.cpp">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\rhomb_vs_hex\Enemy.h">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\rhomb_vs_hex\object2D_Tema.h">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\rhomb_vs_hex\Romb.h">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\rhomb_vs_hex\Star.h">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\rhomb_vs_hex\transform2D.h">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\world_of_tanks\Cladire.h">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\world_of_tanks\Proiectil.h">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\world_of_tanks\Tank.h">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\rhomb_vs_hex\Main_game.h">
+      <Filter>src\lab_m1\rhomb_vs_hex</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\world_of_tanks\Main_wot.h">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\world_of_tanks\tank_camera.h">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\lab_m1\world_of_tanks\tank_transform3D.h">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Traianis\Desktop\Tema\gfx-framework-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{85241DDD-8DE0-3941-9EA0-9D144C58FA84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{7B349364-2E0C-373D-8EEE-68A79828EBFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{520FCD05-E855-3EC7-BCE7-06C972FFC7D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{335E0488-83FF-3E98-B874-E0154DC084BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{599A89B5-D7A6-39B8-BE52-13002DE1F312}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{1F14FFE6-57A8-3C28-9033-43155347D805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{42BB61D4-F86F-3B7E-A2C6-DAFFF8199A40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{9DCA5734-5DAB-357A-B977-F5D4D594721F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\rhomb_vs_hex">
+      <UniqueIdentifier>{3f99942f-ea16-4240-8020-6eac18865050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\world_of_tanks">
+      <UniqueIdentifier>{fee285af-f8bb-47e1-97e3-ec2525972228}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\src\lab_m1\world_of_tanks\TankFragmentShader.glsl">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </None>
+    <None Include="..\src\lab_m1\world_of_tanks\TankVertexShader.glsl">
+      <Filter>src\lab_m1\world_of_tanks</Filter>
+    </None>
+  </ItemGroup>
+</Project>

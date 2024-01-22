@@ -1,0 +1,7 @@
+﻿  Main_wot.cpp
+..\src\lab_m1\world_of_tanks\Main_wot.cpp(499,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\world_of_tanks\Main_wot.cpp(515,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\world_of_tanks\Main_wot.cpp(518,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GFXFramework.vcxproj -> C:\Users\Traianis\Desktop\Tema\gfx-framework-master\build\bin\Debug\GFXFramework.exe
+  Junction created for C:\Users\Traianis\Desktop\Tema\gfx-framework-master\build\bin\Debug\src <<===>> C:\Users\Traianis\Desktop\Tema\gfx-framework-master\src
+  Junction created for C:\Users\Traianis\Desktop\Tema\gfx-framework-master\build\bin\Debug\assets <<===>> C:\Users\Traianis\Desktop\Tema\gfx-framework-master\assets
